@@ -1,0 +1,23 @@
+1)
+Quel échange de message permet à un philosophe de prendre une baguette ?
+envoyer une message à un voisin et de récupérer la baguette
+
+Quelles sont les variables locales à gérer ?
+état de la baguette (un flag), nombres de personnes en attente
+
+Que se passe-t-il si deux voisins font leur demande en même temps ?
+
+
+
+2)
+Que se passe-t-il si tous les philosophes font leur demande en même temps ?
+
+
+3)
+À quel moment le processus représentant un philosophe doit-il se terminer ?
+done EATING
+
+4)
+Proposez un algorithme décrivant le comportement d’un philosophe dans la solution proposée ci-dessus. Prenez soin de détailler les opérations effectuées 
+(1) à l’initialisation (ie. avant chaque repas), et 
+(2) à la réception de chaque type de message.

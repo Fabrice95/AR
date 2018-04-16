@@ -1,0 +1,9 @@
+Ex 1:
+1)
+le processus qui a le plus grand identifiant.
+
+
+
+2)
+
+
